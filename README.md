@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cunknowns
-- 👀 I’m interested in PLP language , Felgo, qt project, mathematica, mathML, OpenCV
+- 👀 I’m interested in PLP language , Felgo, qt project, mathematica, mathML, DLIB
 - 🌱 I’m currently learning C \ C++ \ lua \ lisp \ haskell \ setl \ tcl.tk ...
 - 💞️ I’m looking to collaborate on PLP language
 - 📖 I really like mathematics and I research it
